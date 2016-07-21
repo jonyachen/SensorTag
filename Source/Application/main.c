@@ -1,3 +1,5 @@
+//This is a test
+
 /**
   @file  main.c
   @brief main entry of the BLE stack sample application.
